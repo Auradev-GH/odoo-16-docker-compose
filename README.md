@@ -1,5 +1,5 @@
 # Installing Odoo 16.0 with one command (Supports multiple Odoo instances on one server).
-Auradev
+
 ## Quick Installation
 
 Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) yourself, then run the following to set up first Odoo instance @ `localhost:10016` (default master password: `minhng.info`):
